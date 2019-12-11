@@ -1,0 +1,32 @@
+{
+    "options_preset": {
+      "Custom": {
+        "level": {
+          "LoadFrom": {
+            "path": "maps\\my_tower.txt"
+          }
+        },
+        "properties": null
+      }
+    },
+    "players": [
+      {
+        "Tcp": {
+          "host": "10.0.75.1",
+          "port": 31001,
+          "accept_timeout": null,
+          "timeout": null,
+          "token": null
+        }
+      },
+      {
+        "Tcp": {
+          "host": "10.0.75.1",
+          "port": 31002,
+          "accept_timeout": null,
+          "timeout": null,
+          "token": null
+        }
+      }
+    ]
+  }
